@@ -13,6 +13,16 @@ This project is a web application built with:
 - Apache Tomcat server
 - Eclipse Dynamic Web Project structure
 
+## Screenshots
+
+The project UI screens are shown below:
+
+![Landing Page](Screenshot%20(286).png)
+
+![Login Page](Screenshot%20(287).png)
+
+![Inventory Dashboard](Screenshot%20(288).png)
+
 ## Project Objective
 
 The application is designed to:
