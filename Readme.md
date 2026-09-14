@@ -21,7 +21,12 @@ The project UI screens are shown below:
 
 ![Login Page](Screenshot%20(287).png)
 
-![Inventory Dashboard](Screenshot%20(288).png)
+![Sigin Page](Screenshot%20(288).png)
+
+![Inventory Dashboard](Screenshot%20(289).png)
+
+![Aboutus Page](Screenshot%20(291).png)
+
 
 ## Project Objective
 
